@@ -1,6 +1,6 @@
 {
-  "name": "fast-sass-loader",
-  "description": "fast sass loader for webpack",
+  "name": "@bolt/fast-sass-loader",
+  "description": "fork of the original fast sass loader for webpack -- now supports Sass functions!",
   "version": "1.4.5",
   "main": "lib/index.js",
   "scripts": {
